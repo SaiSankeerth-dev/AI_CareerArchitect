@@ -8,6 +8,15 @@ Nothing is ever fabricated. Every suggestion cites evidence collected from
 your own profiles, passes a fact-validation gate, and requires your explicit
 approval before anything is applied.
 
+<p align="center">
+  <img src="docs/screenshots/landing.png" width="49%" alt="Landing page" />
+  <img src="docs/screenshots/setup.png" width="49%" alt="Setup wizard" />
+</p>
+<p align="center">
+  <img src="docs/screenshots/review.png" width="49%" alt="Before/After suggestion review" />
+  <img src="docs/screenshots/dashboard.png" width="49%" alt="Career dashboard" />
+</p>
+
 **Runs at zero cost:** local Ollama models, free GitHub API, local SQLite,
 optional free Docker services. No paid API is ever required.
 
